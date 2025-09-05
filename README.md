@@ -1,120 +1,143 @@
-# INFO7013 - Engenharia de Software
+# INFO7013 - Engenharia de Software: Fundamentos para Pesquisa Acadêmica
 
-## Projeto Final - 2025
+## Visão Geral
 
-Este repositório contém o projeto final da disciplina INFO7013 - Engenharia de Software, apresentando uma análise abrangente dos fundamentos teóricos da engenharia de software moderna, com foco especial nos fatores de qualidade definidos pelas normas ISO/IEC 9126 e 25010.
+Este repositório constitui a base de conhecimento para o desenvolvimento de pesquisa acadêmica em Engenharia de Software, com foco específico em **métricas de qualidade de software** e **metodologias de desenvolvimento**. O projeto serve como fundamento teórico e prático para a elaboração de tese de doutorado e geração de artigos científicos na área.
 
-## 📋 Descrição do Projeto
+## Objetivos do Projeto
 
-O trabalho explora a convergência entre os principais autores da área (Pressman, O'Regan, Wazlawick) na construção de software sistematizado, seguro e manutenível, apresentando um estudo comparativo dos modelos de processo de desenvolvimento e suas relações com as características de qualidade de software.
+### Objetivo Principal
+Estabelecer uma base sólida de conhecimento em Engenharia de Software que suporte o desenvolvimento de pesquisa acadêmica, com ênfase em:
 
-## 🎯 Objetivos
+- **Métricas de Qualidade de Software**: Análise comparativa das normas ISO/IEC 9126 e ISO/IEC 25010
+- **Metodologias de Desenvolvimento**: Estudo aprofundado de modelos de processo (Waterfall, Spiral, Agile, RUP)
+- **Fundamentos Teóricos**: Síntese das contribuições de autores seminais (Pressman, O'Regan, Wazlawick)
 
-- Analisar os fatores de qualidade de software segundo as normas ISO/IEC 9126 e 25010
-- Comparar modelos de processo de desenvolvimento (Waterfall, Spiral, Agile, RUP)
-- Estudar fundamentos teóricos da engenharia de software
-- Examinar aspectos de responsabilidade profissional e ética no desenvolvimento
-- Produzir materiais de referência para estudantes e profissionais da área
+### Objetivos Específicos
+1. **Estruturar conhecimento** para facilitar a geração de artigos acadêmicos
+2. **Desenvolver análises comparativas** entre diferentes abordagens e metodologias
+3. **Criar recursos visuais** que apoiem a comunicação científica
+4. **Estabelecer métricas** relevantes para avaliação de qualidade de software
+5. **Documentar fundamentos teóricos** de forma sistemática e referenciável
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
-```
-INFO7013/
-├── README.md                    # Este arquivo
-├── RESUMO_EXECUTIVO.md         # Resumo executivo do projeto
-├── LICENSE                      # Licença Apache 2.0
-├── docs/                        # Documentação técnica
-│   ├── analises/               # Análises detalhadas
-│   ├── modelos-processo/       # Comparação de modelos
-│   ├── fundamentos-teoricos/   # Estudos teóricos
-│   └── qualidade-software/     # Fatores de qualidade ISO
-└── assets/                      # Recursos visuais
-    ├── imagens/                # Imagens e figuras
-    ├── diagramas/              # Diagramas técnicos
-    └── mapas-mentais/          # Mapas conceituais
-```
+### 📁 Documentação Principal (`/docs/`)
 
-## 🎨 Recursos Visuais
+#### Qualidade de Software (`/docs/qualidade-software/`)
+- **[Análise ISO/IEC 9126](docs/qualidade-software/analise-iso-9126.md)**: Estudo detalhado da norma original
+- **[Análise ISO/IEC 25010](docs/qualidade-software/analise-iso-25010.md)**: Evolução e melhorias da norma
+- **[Comparativo entre Normas](docs/qualidade-software/comparativo-normas.md)**: Análise comparativa sistemática
+- **[Aplicação Prática](docs/qualidade-software/aplicacao-pratica.md)**: Casos de uso e implementação
 
-### Mapa Mental Completo
-![Mapa Mental INFO7013](assets/mapas-mentais/mapa-mental-info7013.png)
+#### Modelos de Processo (`/docs/modelos-processo/`)
+- **[Modelo Waterfall](docs/modelos-processo/waterfall-cascata.md)**: Análise do modelo em cascata
+- **[Modelo Spiral](docs/modelos-processo/spiral.md)**: Desenvolvimento baseado em riscos
+- **[Metodologias Ágeis](docs/modelos-processo/agile-metodologias.md)**: Scrum, XP, Kanban
+- **[RUP - Rational Unified Process](docs/modelos-processo/rup-rational.md)**: Processo unificado
+- **[Comparativo de Modelos](docs/modelos-processo/comparativo-modelos.md)**: Análise sistemática
 
-### Diagramas Especializados
-- [Comparativo dos Modelos de Processo](assets/diagramas/comparativo-modelos-processo.png)
-- [Evolução das Normas ISO de Qualidade](assets/diagramas/evolucao-iso-qualidade.png)
-- [Síntese dos Fundamentos Teóricos](assets/diagramas/sintese-autores.png)
+#### Fundamentos Teóricos (`/docs/fundamentos-teoricos/`)
+- **[Roger Pressman](docs/fundamentos-teoricos/pressman.md)**: Abordagem pragmática
+- **[Gerard O'Regan](docs/fundamentos-teoricos/oregan.md)**: Perspectiva histórica e ética
+- **[Raul Wazlawick](docs/fundamentos-teoricos/wazlawick.md)**: Estrutura conceitual
+- **[Síntese dos Autores](docs/fundamentos-teoricos/sintese-autores.md)**: Análise comparativa
 
-## 🚀 Navegação Rápida
+### 📊 Recursos Visuais (`/docs/assets/`)
 
-### 📖 Documentação Principal
-- [📊 Qualidade de Software](docs/qualidade-software/) - Análises das normas ISO/IEC 9126 e 25010
-- [🔄 Modelos de Processo](docs/modelos-processo/) - Waterfall, Spiral, Agile e RUP
-- [🧠 Fundamentos Teóricos](docs/fundamentos-teoricos/) - Pressman, O'Regan e Wazlawick
+#### Diagramas (`/docs/assets/diagramas/`)
+- **[Comparativo de Modelos](docs/assets/diagramas/comparativo-modelos-processo.png)**: Análise visual dos processos
+- **[Evolução ISO](docs/assets/diagramas/evolucao-iso-qualidade.png)**: Timeline das normas de qualidade
+- **[Síntese Teórica](docs/assets/diagramas/sintese-autores.png)**: Contribuições dos autores
 
-### 🎨 Recursos Visuais
-- [🗺️ Mapas Mentais](assets/mapas-mentais/) - Visão panorâmica dos conceitos
-- [📈 Diagramas](assets/diagramas/) - Comparativos e evoluções
-- [📋 Resumo Executivo](RESUMO_EXECUTIVO.md) - Síntese do projeto
+## Metodologia de Pesquisa
 
-## 📚 Conteúdo Principal
+### Abordagem Acadêmica
+O projeto adota uma **metodologia sistemática** para coleta, análise e síntese de conhecimento:
 
-### 1. Fatores de Qualidade de Software (ISO/IEC 9126 e 25010)
+1. **Revisão Bibliográfica**: Análise de fontes primárias e secundárias
+2. **Análise Comparativa**: Identificação de semelhanças e diferenças entre abordagens
+3. **Síntese Teórica**: Integração de conhecimentos de diferentes autores
+4. **Documentação Estruturada**: Organização para facilitar referenciamento acadêmico
 
-Análise detalhada das características de qualidade:
-- **Funcionalidade**: Completude, Acurácia, Segurança
-- **Confiabilidade**: Tolerância a falhas, Disponibilidade
-- **Usabilidade**: Inteligibilidade, Acessibilidade, Operabilidade
-- **Eficiência**: Tempo de resposta, Consumo de recursos
-- **Manutenibilidade**: Testabilidade, Modificabilidade, Reusabilidade
-- **Portabilidade**: Adaptabilidade, Instalabilidade
-- **Compatibilidade**: Coexistência, Interoperabilidade
-- **Segurança**: Confidencialidade, Integridade, Rastreabilidade
+### Critérios de Qualidade
+- **Rigor Científico**: Baseado em fontes acadêmicas reconhecidas
+- **Sistematização**: Organização lógica e hierárquica do conhecimento
+- **Rastreabilidade**: Referências claras e verificáveis
+- **Replicabilidade**: Metodologia documentada e reproduzível
 
-### 2. Modelos de Processo de Desenvolvimento
+## Aplicações para Tese
 
-Estudo comparativo dos principais modelos:
-- **Waterfall (Cascata)**: Abordagem sequencial tradicional
-- **Spiral**: Modelo iterativo com análise de riscos
-- **Agile**: Metodologias ágeis e desenvolvimento iterativo
-- **RUP (Rational Unified Process)**: Processo unificado orientado a objetos
+### Potenciais Contribuições Acadêmicas
+1. **Análise Comparativa de Normas**: Evolução das métricas de qualidade
+2. **Avaliação de Metodologias**: Eficácia de diferentes processos de desenvolvimento
+3. **Framework Integrado**: Proposta de abordagem unificada
+4. **Métricas Inovadoras**: Desenvolvimento de novas formas de avaliação
 
-### 3. Fundamentos Teóricos
+### Estrutura para Artigos
+O repositório está organizado para facilitar a geração de:
+- **Artigos de Revisão**: Sínteses sistemáticas do conhecimento
+- **Estudos Comparativos**: Análises entre diferentes abordagens
+- **Propostas Metodológicas**: Novos frameworks e processos
+- **Estudos de Caso**: Aplicações práticas dos conceitos
 
-Análise das contribuições dos principais autores:
-- **Pressman**: Engenharia de software como ferramenta para garantir qualidade
-- **O'Regan**: Qualidade como responsabilidade profissional e ética
-- **Wazlawick**: Artefatos, papéis e atividades nos processos de desenvolvimento
+## Métricas e Indicadores
 
-## 🔧 Como Usar Este Repositório
+### Métricas de Qualidade Analisadas
+- **Funcionalidade**: Adequação, acurácia, interoperabilidade
+- **Confiabilidade**: Maturidade, tolerância a falhas, recuperabilidade
+- **Usabilidade**: Inteligibilidade, operacionalidade, atratividade
+- **Eficiência**: Comportamento temporal, utilização de recursos
+- **Manutenibilidade**: Analisabilidade, modificabilidade, testabilidade
+- **Portabilidade**: Adaptabilidade, instalabilidade, coexistência
 
-1. **Navegação**: Use a estrutura de diretórios para encontrar conteúdo específico
-2. **Documentação**: Consulte os arquivos em `docs/` para análises detalhadas
-3. **Recursos Visuais**: Acesse `assets/` para diagramas e mapas mentais
-4. **Apresentação**: Material de apresentação disponível em `apresentacao/`
+### Indicadores de Processo
+- **Produtividade**: Velocidade de desenvolvimento
+- **Qualidade**: Densidade de defeitos
+- **Previsibilidade**: Aderência a cronogramas
+- **Flexibilidade**: Capacidade de adaptação a mudanças
 
-## 📖 Referências Principais
+## Como Usar Este Repositório
 
-- **Pressman, R.S.** - Software Engineering: A Practitioner's Approach
-- **O'Regan, G.** - A Brief History of Computing
-- **Wazlawick, R.S.** - Engenharia de Software: Conceitos e Práticas
-- **ISO/IEC 9126** - Software Engineering - Product Quality
-- **ISO/IEC 25010** - Systems and Software Quality Requirements and Evaluation
+### Para Pesquisadores
+1. **Consulte a documentação** organizada por temas
+2. **Utilize os recursos visuais** para apresentações e artigos
+3. **Referencie as análises** em trabalhos acadêmicos
+4. **Contribua** com novas análises e perspectivas
 
-## 🏷️ Tags
+### Para Estudantes
+1. **Estude os fundamentos** teóricos organizados
+2. **Compare diferentes abordagens** usando as análises disponíveis
+3. **Utilize os mapas mentais** para compreensão visual
+4. **Pratique** com os exemplos de aplicação
 
-`software-engineering` `iso-9126` `iso-25010` `software-quality` `process-models` `agile` `waterfall` `spiral` `rup` `pressman` `academic-project` `info7013`
+### Para Profissionais
+1. **Consulte as métricas** para avaliação de projetos
+2. **Compare metodologias** para seleção de processos
+3. **Utilize os frameworks** para melhoria de qualidade
+4. **Adapte as práticas** ao contexto organizacional
 
-## 📄 Licença
+## Próximos Passos
 
-Este projeto está licenciado sob a Licença Apache 2.0 - veja o arquivo [LICENSE](LICENSE) para detalhes.
+### Desenvolvimento Futuro
+- [ ] **Expansão das métricas**: Inclusão de novas dimensões de qualidade
+- [ ] **Estudos de caso**: Aplicação prática em projetos reais
+- [ ] **Ferramentas de avaliação**: Desenvolvimento de instrumentos de medição
+- [ ] **Validação empírica**: Testes das propostas teóricas
 
-## 👥 Contribuições
+### Contribuições Esperadas
+- **Artigos científicos** baseados nas análises desenvolvidas
+- **Propostas metodológicas** inovadoras
+- **Ferramentas práticas** para a indústria
+- **Formação acadêmica** de novos pesquisadores
 
-Este é um projeto acadêmico desenvolvido como trabalho final da disciplina INFO7013. Sugestões e melhorias são bem-vindas através de issues e pull requests.
+## Contato e Colaboração
+
+Este projeto está em desenvolvimento contínuo e aberto a colaborações acadêmicas. Para contribuições, sugestões ou parcerias de pesquisa, utilize os canais apropriados da instituição.
 
 ---
 
-**Disciplina**: INFO7013 - Engenharia de Software  
-**Ano**: 2025  
-**Instituição**: [Nome da Instituição]
+**Última atualização**: Setembro 2025  
+**Versão**: 2.0 - Foco em Pesquisa Acadêmica  
+**Licença**: Acadêmica - Uso educacional e de pesquisa
 
