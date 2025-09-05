@@ -21,18 +21,40 @@ O trabalho explora a convergência entre os principais autores da área (Pressma
 ```
 INFO7013/
 ├── README.md                    # Este arquivo
+├── RESUMO_EXECUTIVO.md         # Resumo executivo do projeto
 ├── LICENSE                      # Licença Apache 2.0
 ├── docs/                        # Documentação técnica
 │   ├── analises/               # Análises detalhadas
 │   ├── modelos-processo/       # Comparação de modelos
 │   ├── fundamentos-teoricos/   # Estudos teóricos
 │   └── qualidade-software/     # Fatores de qualidade ISO
-├── assets/                      # Recursos visuais
-│   ├── imagens/                # Imagens e figuras
-│   ├── diagramas/              # Diagramas técnicos
-│   └── mapas-mentais/          # Mapas conceituais
-└── apresentacao/               # Materiais de apresentação
+└── assets/                      # Recursos visuais
+    ├── imagens/                # Imagens e figuras
+    ├── diagramas/              # Diagramas técnicos
+    └── mapas-mentais/          # Mapas conceituais
 ```
+
+## 🎨 Recursos Visuais
+
+### Mapa Mental Completo
+![Mapa Mental INFO7013](assets/mapas-mentais/mapa-mental-info7013.png)
+
+### Diagramas Especializados
+- [Comparativo dos Modelos de Processo](assets/diagramas/comparativo-modelos-processo.png)
+- [Evolução das Normas ISO de Qualidade](assets/diagramas/evolucao-iso-qualidade.png)
+- [Síntese dos Fundamentos Teóricos](assets/diagramas/sintese-autores.png)
+
+## 🚀 Navegação Rápida
+
+### 📖 Documentação Principal
+- [📊 Qualidade de Software](docs/qualidade-software/) - Análises das normas ISO/IEC 9126 e 25010
+- [🔄 Modelos de Processo](docs/modelos-processo/) - Waterfall, Spiral, Agile e RUP
+- [🧠 Fundamentos Teóricos](docs/fundamentos-teoricos/) - Pressman, O'Regan e Wazlawick
+
+### 🎨 Recursos Visuais
+- [🗺️ Mapas Mentais](assets/mapas-mentais/) - Visão panorâmica dos conceitos
+- [📈 Diagramas](assets/diagramas/) - Comparativos e evoluções
+- [📋 Resumo Executivo](RESUMO_EXECUTIVO.md) - Síntese do projeto
 
 ## 📚 Conteúdo Principal
 
