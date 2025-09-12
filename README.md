@@ -43,6 +43,15 @@ Estabelecer uma base sólida de conhecimento em Engenharia de Software que supor
 - **[Raul Wazlawick](docs/fundamentos-teoricos/wazlawick.md)**: Estrutura conceitual
 - **[Síntese dos Autores](docs/fundamentos-teoricos/sintese-autores.md)**: Análise comparativa
 
+#### Disciplina de Engenharia de Software (`/docs/disciplina-es/`)
+- **[Artigos Básicos](docs/disciplina-es/README.md)**: Análise de 7 documentos fundamentais
+- **Qualidade de Produto**: Wazlawick (ISO/IEC 25010)
+- **Métricas de Software**: Pressman (GQM, princípios de medição)
+- **Garantia da Qualidade**: Pressman (SQA, processos)
+- **Economia de Software**: Boehm (análise custo-benefício)
+- **Técnicas de Revisão**: Métodos formais de revisão
+- **Base Teórica Expandida**: Integração com propostas metodológicas
+
 ### 📊 Recursos Visuais (`/docs/assets/`)
 
 #### Diagramas (`/docs/assets/diagramas/`)
