@@ -150,3 +150,30 @@ Este projeto está em desenvolvimento contínuo e aberto a colaborações acadê
 **Versão**: 2.0 - Foco em Pesquisa Acadêmica  
 **Licença**: Acadêmica - Uso educacional e de pesquisa
 
+
+
+## Integração com Projeto de Tese
+
+### Análise de Coesão
+O projeto INFO7013 foi analisado em conjunto com o projeto de tese **SyntheticUForgePR** (geração de redes sociais sintéticas), identificando pontos de convergência metodológica e oportunidades de integração:
+
+#### Pontos de Convergência Identificados
+- **Metodologia Científica**: Ambos adotam abordagem sistemática de análise da literatura
+- **Frameworks Integrados**: Propostas que combinam múltiplas dimensões e aspectos
+- **Validação Empírica**: Ênfase na necessidade de validação rigorosa das propostas
+- **Aspectos de Qualidade**: Foco em garantias de qualidade em suas respectivas áreas
+
+#### Oportunidades de Integração
+- **Aplicação de Métricas de Qualidade**: Uso de métricas de ES no desenvolvimento de ferramentas de IA
+- **Framework QA-AI**: Adaptação do QA-Agile para desenvolvimento de ferramentas de IA
+- **Metodologia Ágil para Pesquisa**: Aplicação de princípios ágeis em contexto de pesquisa
+- **Economia da Engenharia de Software**: Análise custo-benefício aplicada à pesquisa
+
+### Artigo de Conclusão da Disciplina
+Desenvolvido artigo integrando os dois projetos: **"Aplicação de Princípios de Engenharia de Software no Desenvolvimento de Ferramentas de IA para Geração de Redes Sociais Sintéticas"**
+
+- **Objetivo**: Demonstrar aplicação prática de princípios de ES em contexto de IA
+- **Metodologia**: Framework QA-AI baseado em QA-Agile e SMART-Quality
+- **Estudo de Caso**: Projeto SyntheticUForgePR como validação prática
+- **Contribuições**: Métricas adaptadas, framework específico, evidência empírica
+
