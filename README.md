@@ -177,3 +177,48 @@ Desenvolvido artigo integrando os dois projetos: **"Aplicação de Princípios d
 - **Estudo de Caso**: Projeto SyntheticUForgePR como validação prática
 - **Contribuições**: Métricas adaptadas, framework específico, evidência empírica
 
+
+## Artigo do Estudo Dirigido
+
+### 📄 **"Avaliação de Qualidade de Software em Ferramentas de Geração de Redes Sociais Sintéticas"**
+
+**Arquivo**: [artigo-estudo-dirigido-es.md](docs/artigos-cientificos/artigo-estudo-dirigido-es.md) | [PDF](docs/artigos-cientificos/artigo-estudo-dirigido-es.pdf)
+
+**Especificações**: 15 páginas, 3.186 palavras, formato de artigo técnico científico
+
+#### **Resumo do Artigo**
+Apresenta um framework integrado (QA-AI) para avaliação de qualidade de software aplicado ao desenvolvimento de ferramentas de IA para geração de redes sociais sintéticas. A pesquisa demonstra como adaptar métricas tradicionais de engenharia de software para o contexto de machine learning, validando empiricamente através do projeto SyntheticUForgePR.
+
+#### **Principais Contribuições**
+- **Framework QA-AI**: Integração de métricas tradicionais de ES com métricas específicas de IA
+- **Métricas Adaptadas**: Extensão de complexidade ciclomática, cobertura de testes e débito técnico para IA
+- **Validação Empírica**: Demonstração prática com resultados quantitativos mensuráveis
+- **Análise Econômica**: ROI de 280% demonstrado em 18 meses
+
+#### **Resultados Quantitativos Alcançados**
+- ✅ **Complexidade**: Redução de 33% na complexidade ciclomática
+- ✅ **Débito Técnico**: Redução de 47% (15% → 8%)
+- ✅ **Cobertura de Testes**: 82% (meta de 80% atingida)
+- ✅ **Fidelidade de Dados**: MMD = 0.023 (excelente, < 0.05)
+- ✅ **Reprodutibilidade**: Aumento de 70% → 95%
+- ✅ **Privacidade**: ε = 0.1 (differential privacy forte)
+
+#### **Framework QA-AI: 4 Dimensões**
+1. **Dimensão Técnica**: Complexidade, cobertura, débito técnico adaptados para IA
+2. **Dimensão de Fidelidade**: MMD, Fréchet Distance, Precision & Recall
+3. **Dimensão de Privacidade**: Differential Privacy, risk assessment, utility preservation
+4. **Dimensão Econômica**: ROI, trade-off analysis, resource optimization
+
+#### **Aplicação Prática**
+O framework foi validado no projeto **SyntheticUForgePR** (geração de redes sociais sintéticas), demonstrando:
+- Melhoria na qualidade técnica do código
+- Aumento da confiabilidade dos resultados científicos
+- Otimização de recursos computacionais
+- Garantias quantificáveis de preservação de privacidade
+
+#### **Impacto para a Área**
+- **Engenharia de Software**: Extensão de métricas tradicionais para contexto de IA
+- **Pesquisa em IA**: Metodologia estruturada para garantir qualidade
+- **Redes Sociais Sintéticas**: Framework específico para avaliação de geradores
+- **Reprodutibilidade Científica**: Ferramentas para melhorar reprodutibilidade de experimentos
+
