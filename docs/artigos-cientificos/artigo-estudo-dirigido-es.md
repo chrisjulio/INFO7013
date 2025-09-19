@@ -8,11 +8,21 @@ Este trabalho apresenta um framework integrado para avaliação de qualidade de 
 
 ## 1. Introdução
 
+### 1.1 Antecedentes e Contexto
+
+Com o crescimento das mídias sociais, a quantidade de dados gerados diariamente é enorme, oferecendo uma oportunidade única para análises em áreas como marketing, comportamento do consumidor e análise de sentimentos, sensações ou reações. No entanto, o uso desses dados enfrenta desafios relacionados à privacidade, ética e regulamentações legais, como a LGPD (Lei Geral de Proteção de Dados), o GDPR (General Data Protection Regulation) ou DPLS (Data Privacy Laws by State).
+
+As mídias sociais online são ricas em interações, onde indivíduos e organizações se conectam por redes complexas. Essas redes, frequentemente modeladas como grafos, são essenciais para entender dinâmicas sociais, a difusão de informações e identificar anomalias. Entretanto, a obtenção de dados reais dessas redes é limitada por restrições éticas e legais, o que torna necessário o desenvolvimento de geradores de dados sintéticos. Esses geradores podem usar grafos para criar redes sociais simuladas que preservam as propriedades estruturais e dinâmicas dos dados reais, oferecendo um ambiente seguro para análise e experimentação. Nesse contexto, a geração de dados sintéticos surgiu como uma solução promissora para permitir pesquisas robustas sem comprometer a privacidade dos usuários.
+
+Esta realidade cria um cenário único onde o desenvolvimento de ferramentas de inteligência artificial para geração de redes sociais sintéticas não apenas enfrenta os desafios tradicionais de engenharia de software, mas também deve atender a requisitos específicos de fidelidade, preservação de privacidade e conformidade regulatória. Como observa Martiri (2024, p. 1), "a motivação por trás do uso de dados sintéticos deriva de preocupações com privacidade de dados, limitações na disponibilidade de dados e necessidade de conjuntos de dados diversos e representativos".
+
+### 1.2 Desafios de Qualidade em Ferramentas de IA
+
 A crescente aplicação de técnicas de inteligência artificial em pesquisa científica tem criado novos desafios para a avaliação de qualidade de software. Diferentemente do desenvolvimento de software tradicional, ferramentas de IA apresentam características únicas que tornam a avaliação de qualidade mais complexa: algoritmos probabilísticos, dependência de dados de treinamento, dificuldade de validação de correção e necessidade de reprodutibilidade científica (THOMPSON et al., 2022).
 
 No contexto específico da geração de redes sociais sintéticas, estes desafios são amplificados pela necessidade de preservar propriedades estatísticas complexas dos dados originais enquanto se garante privacidade dos usuários. Como observa Brito (2024), "o crescimento exponencial de dados gerados em mídias sociais" cria oportunidades significativas para pesquisa, mas também apresenta "desafios relacionados à privacidade, ética e regulamentações legais (LGPD/GDPR/CCPA)".
 
-### 1.1 Problema de Pesquisa
+### 1.3 Problema de Pesquisa
 
 A avaliação de qualidade em ferramentas de IA para geração de dados sintéticos enfrenta limitações significativas dos frameworks tradicionais de engenharia de software. Métricas clássicas como complexidade ciclomática, cobertura de testes e débito técnico, embora relevantes, não capturam aspectos específicos de qualidade em sistemas de IA, tais como:
 
@@ -22,7 +32,7 @@ A avaliação de qualidade em ferramentas de IA para geração de dados sintéti
 - **Escalabilidade de Algoritmos**: Performance em datasets de diferentes tamanhos
 - **Validação de Correção**: Dificuldade em definir "correção" para dados sintéticos
 
-### 1.2 Objetivos
+### 1.4 Objetivos
 
 #### Objetivo Geral
 Desenvolver e validar um framework integrado para avaliação de qualidade de software aplicado especificamente a ferramentas de IA para geração de redes sociais sintéticas, demonstrando sua aplicabilidade através do projeto de pesquisa SyntheticUForgePR.
@@ -34,7 +44,7 @@ Desenvolver e validar um framework integrado para avaliação de qualidade de so
 4. Validar empiricamente o framework através de estudo de caso no projeto SyntheticUForgePR
 5. Demonstrar benefícios mensuráveis da aplicação sistemática de avaliação de qualidade
 
-### 1.3 Justificativa
+### 1.5 Justificativa
 
 A relevância desta pesquisa fundamenta-se em três aspectos principais:
 
